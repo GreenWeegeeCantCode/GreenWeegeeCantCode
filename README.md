@@ -37,7 +37,10 @@ Here are a few things about me!
 
 - 💣 Lua
 
-### Projects i made 👨‍💻
+### My Website 🌐
 
 
-havent made any yet 
+my website! cool i know.
+
+check out [here!](https://greenweegeecantcode.github.io/)
+
