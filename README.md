@@ -1,8 +1,6 @@
-https://media.discordapp.net/attachments/1145364613710495846/1155040230420779078/Untitled33_20230923090414.png
-
+![Untitled33_20230923090414](https://github.com/GreenWeegeeCantCode/GreenWeegeeCantCode/assets/145769578/2492aceb-4542-4cbe-89be-b58285ba437f)
 
 ### Hi there 👋
-
 I'm GreenWeegee.
 
 ===========================
