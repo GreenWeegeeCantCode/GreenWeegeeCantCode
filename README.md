@@ -9,8 +9,6 @@ Here are a few things about me!
 
 - 🎬 I make videos on [YouTube](https://youtube.com/@greenweegee1?si=uz0x3XlD9Jj_LQ1D)
 
-- 🌱 I’m currently learning HTML and CSS
-
 - 💬 Ask me about anything!
 
 - 📫 How to reach me: **weegealt** on Discord
