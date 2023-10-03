@@ -1,5 +1,8 @@
 ![Untitled33_20230923090414](https://github.com/GreenWeegeeCantCode/GreenWeegeeCantCode/assets/145769578/2492aceb-4542-4cbe-89be-b58285ba437f)
 
+[![You - Tube](https://img.shields.io/static/v1?label=You&message=Tube&color=ff0000)](https://youtube.com/@greenweegee1)
+[![Tw - itch](https://img.shields.io/static/v1?label=Tw&message=itch&color=800080)](https://twitch.tv/greenwegee)
+
 ### Hi there 👋
 I'm GreenWeegee.
 
