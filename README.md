@@ -18,9 +18,11 @@ Here are a few things about me!
 
 - 😄 Pronouns: i dont have pronouns, but you can just say "weegee"
 
+===========================
 
 ### Where you can find me!
 
+===========================
 
 - Steam: https://steamcommunity.com/profiles/76561199553740381/
 
@@ -30,7 +32,11 @@ Here are a few things about me!
 
 - YouTube: https://youtube.com/@greenweegee1
 
+===========================
+
 ### Stuff i know 
+
+===========================
 
 - 🐍 Python
 
@@ -38,8 +44,11 @@ Here are a few things about me!
 
 - 💣 Lua
 
+===========================
+
 ### My Website 🌐
 
+===========================
 
 my website! cool i know.
 
