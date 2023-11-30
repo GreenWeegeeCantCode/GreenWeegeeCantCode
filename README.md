@@ -1,5 +1,5 @@
 
-[![You - Tube](https://img.shields.io/static/v1?label=You&message=Tube&color=ff0000)](https://youtube.com/@greenweegee1)
+[![You - Tube](https://img.shields.io/static/v1?label=You&message=Tube&color=ff0000)](https://youtube.com/@greenweegeeyt)
 [![Tw - itch](https://img.shields.io/static/v1?label=Tw&message=itch&color=800080)](https://twitch.tv/greenwegee)
 
 ### Hi there 👋
@@ -9,7 +9,7 @@ I'm GreenWeegee.
 
 Here are a few things about me!
 
--  I make videos on [YouTube](https://youtube.com/@greenweegee1?si=uz0x3XlD9Jj_LQ1D)
+-  I make videos on [YouTube](https://youtube.com/@greenweegeeyt)
 
 -  Ask me about anything!
 
@@ -29,7 +29,7 @@ Here are a few things about me!
 
 - Twitch: https://twitch.tv/greenwegee
 
-- YouTube: https://youtube.com/@greenweegee1
+- YouTube: https://youtube.com/@greenweegeeyt
 
 ===========================
 
