@@ -4,7 +4,7 @@
 
 youtube: @greenweegeeyt
 
-website: https://greenweeecantcode.github.io
+website: https://greenweegeecantcode.github.io
 
 discord: weegealt
 
