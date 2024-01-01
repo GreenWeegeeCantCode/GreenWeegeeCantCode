@@ -8,8 +8,6 @@ website: https://greenweeecantcode.github.io
 
 discord: weegealt
 
-twitch: greenwegee
-
 ---------
 
 languages i know:
